@@ -12,6 +12,7 @@ const initialColors = {
     bgPanel: getStyle(html, "--bg-panel"),
     colorHeadings: getStyle(html, "--color-headings"),
     colorText: getStyle(html, "--color-text"),
+    colorTitle: getStyle(html, "--h1")
 }
 
 const darkMode = {
